@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = parafia2
+build_property.RootNamespace = parafia2
+build_property.ProjectDir = C:\Users\Marcin\source\repos\parafia2\parafia2\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Marcin\source\repos\parafia2\parafia2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ksiezas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpZXphc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ksiezas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpZXphc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ksiezas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpZXphc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ksiezas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpZXphc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ksiezas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3NpZXphc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ministrancis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWluaXN0cmFuY2lzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ministrancis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWluaXN0cmFuY2lzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ministrancis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWluaXN0cmFuY2lzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ministrancis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWluaXN0cmFuY2lzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Ministrancis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWluaXN0cmFuY2lzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Mszes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXN6ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Mszes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXN6ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Mszes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXN6ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Mszes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXN6ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Mszes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXN6ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Stanowiskas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rhbm93aXNrYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Stanowiskas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rhbm93aXNrYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Stanowiskas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rhbm93aXNrYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Stanowiskas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rhbm93aXNrYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Stanowiskas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rhbm93aXNrYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marcin/source/repos/parafia2/parafia2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rmp76b0mbs

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\parafia2.props" />
+</Project>
